@@ -67,6 +67,26 @@ Open a second terminal window:
 Open http://localhost:5173 in your browser.
 
 
-## Author
-**Paila Bala Sai Govardhani**
 
+## 🧑‍💻 Author
+
+**PAILA BALA SAI GOVARDHANI**
+
+Full-Stack Development Learner
+
+## 🔗 Connect With Me
+
+* GitHub: https://github.com/PAILABALASAIGOVARDHANI
+* LinkedIn: https://www.linkedin.com/in/balasaigovardhani-paila/
+
+## 📄 License
+
+This project is created for educational and learning purposes.
+
+---
+
+<p align="center">
+  ⭐ If you like this project, consider giving it a star!
+  <br><br>
+  <b>Thank You for Visiting My Project! ❤️</b>
+</p>
