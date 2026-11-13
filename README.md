@@ -48,7 +48,7 @@
 ## How to Run Locally
 
 ### 1. Clone the Repository
-    git clone https://github.com
+    git clone https://github.com/PAILABALASAIGOVARDHANI
     cd SyncNotes
 
 ### 2. Start the Backend Server
@@ -59,10 +59,13 @@ The Express server starts on http://localhost:5000.
 
 ### 3. Start the Frontend Client
 Open a second terminal window:
+
     cd client
     npm install
     npm run dev
+
 Open http://localhost:5173 in your browser.
+
 
 ## Author
 **Paila Bala Sai Govardhani**
