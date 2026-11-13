@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1794423617214",
+    "title": "Untitled Note",
+    "content": "javascript",
+    "updatedAt": "2026-11-11T19:32:40.282Z"
+  },
+  {
+    "id": "1794425444357",
+    "title": "Untitled Note",
+    "content": "",
+    "updatedAt": "2026-11-11T19:33:07.562Z"
+  },
+  {
+    "id": "1794425741721",
+    "title": "Untitled Note",
+    "content": "im govardhani",
+    "updatedAt": "2026-11-11T19:35:52.683Z"
+  },
+  {
+    "id": "1794425779556",
+    "title": "Java Learning",
+    "content": "JAVA is a programming language",
+    "updatedAt": "2026-11-11T19:39:49.663Z"
+  },
+  {
+    "id": "1794426246745",
+    "title": "JAVA LEARNING",
+    "content": "Java is a programming lnguage\nhello govardhani",
+    "updatedAt": "2026-11-11T19:45:09.383Z"
+  },
+  {
+    "id": "1794506344998",
+    "title": "JAVA LEARNING",
+    "content": "java is a programming langaguage",
+    "updatedAt": "2026-11-12T17:59:30.414Z"
+  },
+  {
+    "title": "Untitled Note",
+    "updatedAt": "2026-11-12T18:02:19.905Z"
+  },
+  {
+    "id": "1794601190614",
+    "title": "FUTURE APP IDEAS",
+    "content": "1. Expense Tracker with monthly budget charts\n2. Weather Dashboard using a live weather API\n3. Quiz App with timer and high score board\n",
+    "category": "General",
+    "isPinned": false,
+    "owner": "Govardhani_23"
+  },
+  {
+    "id": "1794601360298",
+    "title": "REACT HOOKS",
+    "content": "Core React Hooks:\n1. useState: Stores and updates component data (like note title, content, and dark mode).\n2. useEffect: Runs side effects automatically when the page loads or when a variable changes (like fetching notes after login).\n\nKey Rule:\n- Always update state using the setter function (e.g., setNotes) so React re-renders the UI properly.\n",
+    "category": "Study",
+    "isPinned": false,
+    "owner": "Govardhani_23"
+  },
+  {
+    "id": "1794601414187",
+    "title": "SyncNotes Project Milestones",
+    "content": "Completed Tasks:\n- Built Express.js REST API for creating, reading, and deleting notes\n- Connected React frontend to local JSON file storage\n- Added multi-user login and registration with localStorage persistence\n- Implemented Dark Mode, Category Filters, Pinning, and .txt Download\n\n",
+    "category": "Work",
+    "isPinned": false,
+    "owner": "Govardhani_23"
+  },
+  {
+    "id": "1794601487541",
+    "title": "Weekend Routine & Goals",
+    "content": "Saturday Priorities:\n- Morning walk and breakfast\n- Spend 1 hour reviewing Java and React interview questions\n- Organize desktop folders and back up code to GitHub\n\nSunday Relaxation:\n- Watch a movie or read a book\n- Plan meals and tasks for the upcoming week\n",
+    "category": "Personal",
+    "isPinned": false,
+    "owner": "Govardhani_23"
+  }
+]
